@@ -1,0 +1,2862 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hoverCo",
+				"hoverColor"
+			],
+			[
+				"color",
+				"colorSplit"
+			],
+			[
+				"bg-blue",
+				"bg-blue-700"
+			],
+			[
+				"prepare",
+				"prepare_legend_formatter"
+			],
+			[
+				"total",
+				"total_warned_mitiaged_count"
+			],
+			[
+				"tota",
+				"total_bot_reason_count"
+			],
+			[
+				"totl",
+				"total_bot_reason_count"
+			],
+			[
+				"top_bot_",
+				"top_bot_reason_timeline_chart_data"
+			],
+			[
+				"top_bo",
+				"top_bot_reason_timeline_chart"
+			],
+			[
+				"detail",
+				"detailed_legend_formatter"
+			],
+			[
+				"slid",
+				"slide_obj"
+			],
+			[
+				"compon",
+				"component"
+			],
+			[
+				"merge_sort",
+				"merge_sort_util\tabc"
+			],
+			[
+				"sort",
+				"sort_students\tabc"
+			],
+			[
+				"db",
+				"db_performance"
+			],
+			[
+				"get_add",
+				"get_address\tfunction ⟠"
+			],
+			[
+				"get_reg",
+				"get_reg_id\tfunction ⟠"
+			],
+			[
+				"FIL",
+				"FILE_SAVE_LOCATION"
+			],
+			[
+				"FALSE",
+				"false"
+			],
+			[
+				"border-bo",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"highl",
+				"highlight\t(models.py)"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"Mode",
+				"Model\t(models.py)"
+			],
+			[
+				"json",
+				"json\tmodule"
+			],
+			[
+				"format",
+				"format_suffix_patterns"
+			],
+			[
+				"csrf_ex",
+				"csrf_exempt\tmodule"
+			],
+			[
+				"cs",
+				"csrf_exempt\tmodule"
+			],
+			[
+				"rc",
+				"rcc\tReact: component skeleton"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tailwind.config.js",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 601,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/button.vue",
+			"settings":
+			{
+				"buffer_size": 912,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/input.vue",
+			"settings":
+			{
+				"buffer_size": 623,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/alert.vue",
+			"settings":
+			{
+				"buffer_size": 239,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/loginform.vue",
+			"settings":
+			{
+				"buffer_size": 1456,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"convert spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert to s",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"activate the",
+				"ayu: Activate theme"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"save all",
+				"File: Save All"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sublack",
+				"Sublack: Format file"
+			],
+			[
+				"disable pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pylint",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"color theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"git changes",
+				"Sublimerge: Show Uncommited Changes..."
+			],
+			[
+				"colro theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"select theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"virtualenv",
+				"Virtualenv: Activate"
+			],
+			[
+				"virtual",
+				"Virtualenv: New (venv)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"convert to sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimerepl python",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"repl python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"black",
+				"Sublack: Format file"
+			],
+			[
+				"kite",
+				"Kite: Hover Over Symbol"
+			],
+			[
+				"kite hover",
+				"Kite: Hover Over Symbol"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color pick",
+				"Color Picker"
+			],
+			[
+				"pinstall ",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"fix",
+				"Python Fix Imports"
+			],
+			[
+				"syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"import",
+				"Python Fix Imports"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"fixi",
+				"Python Fix Imports"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"fix ",
+				"Python Fix Imports"
+			],
+			[
+				"to spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"enable fix",
+				"Enable Python Fix Imports (until restart)"
+			],
+			[
+				"fix impor",
+				"Python Fix Imports"
+			],
+			[
+				"remve pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"import sor",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"to spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sort imports",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"autofo",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"sort",
+				"Python Imports Sorter: sort imports"
+			],
+			[
+				"to spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sort lines",
+				"Sort Lines"
+			],
+			[
+				"virtuale",
+				"Virtualenv: Deactivate"
+			],
+			[
+				"pyenv",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"install ap",
+				"Package Control: Install Package"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"settings",
+				"Sync Settings: Upload"
+			],
+			[
+				"close ",
+				"File: Close All"
+			],
+			[
+				"bookmarks",
+				"Bookmarks: Select Next"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Select All"
+			],
+			[
+				"bookm",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"git",
+				"GitGutter: Support Info"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"gosublime error",
+				"GoSublime: Open Error Log"
+			],
+			[
+				"gosubli",
+				"GoSublime: Open Error Log"
+			],
+			[
+				"prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"mate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"sync setting",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"react",
+				"ReactIDE: Switch between component and stylesheet"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import os;os.system(\"clear\")",
+			"import os;os.system(\"clear\"",
+			"os.system(\"clear\")",
+			"exit",
+			"sublime.clear()",
+			"sublime",
+			"clear",
+			"print(\"hey\")",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/slokesh/VueProjects/tailwind-setup",
+		"/Users/slokesh/VueProjects/tailwind-setup/public",
+		"/Users/slokesh/VueProjects/tailwind-setup/src",
+		"/Users/slokesh/VueProjects/tailwind-setup/src/assets",
+		"/Users/slokesh/VueProjects/tailwind-setup/src/assets/css",
+		"/Users/slokesh/VueProjects/tailwind-setup/src/components"
+	],
+	"file_history":
+	[
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/Users/slokesh/VueProjects/tailwind-setup/tailwind.config.js",
+		"/Users/slokesh/VueProjects/tailwind-setup/package.json",
+		"/Users/slokesh/VueProjects/tailwind-setup/postcss.config.js",
+		"/Users/slokesh/VueProjects/tailwind-setup/node_modules/.bin/prettier",
+		"/Users/slokesh/VueProjects/tailwind-setup/.eslintrc.js",
+		"/Users/slokesh/VueProjects/tailwind-setup/babel.config.js",
+		"/Users/slokesh/VueProjects/tailwind-setup/node_modules/prettier-linter-helpers/.editorconfig",
+		"/Users/slokesh/VueProjects/tailwind-setup/node_modules/vue/dist/vue.common.dev.js",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScriptReact.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/Users/slokesh/VueProjects/tailwind-setup/src/assets/css/tailwind.css",
+		"/Users/slokesh/VueProjects/tailwind-setup/src/components/HelloWorld.vue",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/preview_generator.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/bmp_tsr_data_functions.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/components.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_detailed_analysis.json",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_executive_summary.json",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/bmp_tsr_components.py",
+		"/private/tmp/magnifier.svg",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/constants.py",
+		"/Users/slokesh/work/mss_report_engine/mss_report_engine.sublime-project",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/per_report_components.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/report_configuration/BMP_TSR.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/preview_generate.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/make_callback.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/msr_controller.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/pptx_engine/pptx_abstract.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/test_pptx.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/pptx/compat/python3.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/pptx_engine/pptx_constants.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/constants.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/report_configuration/config_helper.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/tasks.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/report_flow.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/controller.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/ppt_report.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/models.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/controller.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/tests/test_data_funcs.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/tests/data_utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/mss_functions.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/controller.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/views.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/urls.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_report_engine/urls.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/urls.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/migration_utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/bmp_tsr_controller.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/rest_framework/renderers.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/rest_framework/views.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/django/views/decorators/csrf.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/pylint/reporters/ureports/nodes.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/data_funcs.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_report_engine/ab_prod_settings.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_report_engine/ab_stag_settings.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/requirements.txt",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/requirements_dev.txt",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/admin.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_data_abstraction/tests/data_utils.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/tests/test_views.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/tasks.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/views.py",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/User/python_fiximports.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/Python Fix Imports/python_fiximports.sublime-settings",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/exceptions.py",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/coverage/htmlfiles/coverage_html.js",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_report_engine/local_settings.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/mss_report_engine/settings.py",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/data_aggregator/models.py",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/Users/slokesh/work/mss_report_engine/venv/lib/python3.5/site-packages/django_extensions/static/django_extensions/js/jquery.autocomplete.js",
+		"/Users/slokesh/work/mss_report_engine/.flake8",
+		"/Users/slokesh/work/mss_report_engine/src/ab-www/report_engine/pptx_engine/BMP_TSR_Template.pptx",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/User/Virtualenv.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/User/KiteSublime.sublime-settings",
+		"/Users/slokesh/Library/Application Support/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"node_path",
+			"node",
+			"tailwind",
+			"tailwindcss",
+			"tailwind",
+			"css",
+			"save",
+			"Button",
+			"post"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"SL.144.region_keys":
+							[
+							],
+							"SL.419.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tailwind.config.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"SL.174.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"SL.420.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										389,
+										390
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										330,
+										331
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										178,
+										179
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										168,
+										169
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/components/button.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"SL.422.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										138,
+										139
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										132,
+										133
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										113,
+										114
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										64,
+										65
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/input.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"SL.147.region_keys":
+							[
+							],
+							"SL.559.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										604,
+										605
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										537,
+										538
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/components/alert.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"SL.685.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										120,
+										121
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										28,
+										29
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/components/loginform.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"SL.149.region_keys":
+							[
+							],
+							"SL.705.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 151.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 156.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tailwind-setup.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tailwin",
+				"tailwind.config.js"
+			],
+			[
+				"button",
+				"src/components/button.vue"
+			],
+			[
+				"prettier",
+				"node_modules/.bin/prettier"
+			],
+			[
+				"postcss",
+				"postcss.config.js"
+			],
+			[
+				"babel.",
+				"babel.config.js"
+			],
+			[
+				".eslintrc",
+				".eslintrc.js"
+			],
+			[
+				"prettier.confi",
+				"node_modules/prettier-linter-helpers/.editorconfig"
+			],
+			[
+				"",
+				"src/App.vue"
+			],
+			[
+				"app.vu",
+				"src/App.vue"
+			],
+			[
+				"bmp_tsr_",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"per_components",
+				"src/ab-www/mss_data_abstraction/per_report_components.py"
+			],
+			[
+				"bmp_tsr_function",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"views",
+				"src/ab-www/mss_data_abstraction/views.py"
+			],
+			[
+				"preview",
+				"src/ab-www/preview_generate.py"
+			],
+			[
+				"bmp",
+				"src/ab-www/mss_data_abstraction/bmp_tsr_components.py"
+			],
+			[
+				"models",
+				"src/ab-www/report_engine/models.py"
+			],
+			[
+				"component",
+				"src/ab-www/mss_data_abstraction/components.py"
+			],
+			[
+				"bmp_tsr_data",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"bmp_tsr_data_fu",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"controller",
+				"src/ab-www/data_aggregator/controller.py"
+			],
+			[
+				"bmp_tsr_compon",
+				"src/ab-www/mss_data_abstraction/bmp_tsr_components.py"
+			],
+			[
+				"bmp_tsr",
+				"src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_executive_summary.json"
+			],
+			[
+				"pptx_rend",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"make_callb",
+				"src/ab-www/make_callback.py"
+			],
+			[
+				"bmp_tsr_exc",
+				"src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_executive_summary.json"
+			],
+			[
+				"bmp_tsr.py",
+				"src/ab-www/report_engine/report_configuration/BMP_TSR.py"
+			],
+			[
+				"bmp_tsr_json",
+				"src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_executive_summary.json"
+			],
+			[
+				"mss_data_abstraction/utils.py",
+				"src/ab-www/mss_data_abstraction/utils.py"
+			],
+			[
+				"generator",
+				"src/ab-www/mss_data_abstraction/preview_generator.py"
+			],
+			[
+				"models.py",
+				"src/ab-www/data_aggregator/models.py"
+			],
+			[
+				"consta",
+				"src/ab-www/data_aggregator/constants.py"
+			],
+			[
+				"pptx_ren",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"pptx_re",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"ppt_repor",
+				"src/ab-www/report_engine/ppt_report.py"
+			],
+			[
+				"urls",
+				"src/ab-www/report_engine/urls.py"
+			],
+			[
+				"report_flw",
+				"src/ab-www/report_engine/report_flow.py"
+			],
+			[
+				"ppt_report",
+				"src/ab-www/report_engine/ppt_report.py"
+			],
+			[
+				"constan",
+				"src/ab-www/data_aggregator/constants.py"
+			],
+			[
+				"bmp_tsr json",
+				"src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_executive_summary.json"
+			],
+			[
+				"bmp_tsr_data_functions",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"report_engine/pptx_engine/pptx_renderers.py",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"data_aggregator/bmp_tsr_data_functions.py",
+				"src/ab-www/data_aggregator/bmp_tsr_data_functions.py"
+			],
+			[
+				"bmpt",
+				"src/ab-www/report_engine/report_configuration/BMP_TSR.py"
+			],
+			[
+				"pptx",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"render",
+				"venv/lib/python3.5/site-packages/rest_framework/renderers.py"
+			],
+			[
+				"pptx_cons",
+				"src/ab-www/report_engine/pptx_engine/pptx_constants.py"
+			],
+			[
+				"python pptx",
+				"venv/lib/python3.5/site-packages/pptx/compat/python3.py"
+			],
+			[
+				"test_ppt",
+				"src/ab-www/test_pptx.py"
+			],
+			[
+				"constants",
+				"src/ab-www/data_aggregator/constants.py"
+			],
+			[
+				"rende",
+				"src/ab-www/report_engine/pptx_engine/pptx_renderers.py"
+			],
+			[
+				"utils",
+				"src/ab-www/mss_data_abstraction/utils.py"
+			],
+			[
+				"ab_stag",
+				"src/ab-www/mss_report_engine/ab_stag_settings.py"
+			],
+			[
+				"ab_prod",
+				"src/ab-www/mss_report_engine/ab_prod_settings.py"
+			],
+			[
+				"requi",
+				"src/ab-www/requirements_dev.txt"
+			],
+			[
+				"require",
+				"src/ab-www/requirements.txt"
+			],
+			[
+				"requir",
+				"src/ab-www/requirements.txt"
+			],
+			[
+				"ppt_rep",
+				"src/ab-www/report_engine/ppt_report.py"
+			],
+			[
+				"report_flow",
+				"src/ab-www/report_engine/report_flow.py"
+			],
+			[
+				"bmp_t",
+				"src/ab-www/report_engine/report_configuration/BMP_TSR.py"
+			],
+			[
+				"sublime",
+				"mss_report_engine.sublime-project"
+			],
+			[
+				"settings",
+				"src/ab-www/mss_report_engine/settings.py"
+			],
+			[
+				"local_settings",
+				"src/ab-www/mss_report_engine/local_settings.py"
+			],
+			[
+				"detailed_",
+				"src/ab-www/mss_data_abstraction/report_templates/bmp_tsr_detailed_analysis.json"
+			],
+			[
+				"preview_g",
+				"src/ab-www/preview_generate.py"
+			],
+			[
+				"preview_gener",
+				"src/ab-www/mss_data_abstraction/preview_generator.py"
+			],
+			[
+				"msr_contr",
+				"src/ab-www/mss_data_abstraction/msr_controller.py"
+			],
+			[
+				"bmp_tsr_templ",
+				"src/ab-www/report_engine/pptx_engine/BMP_TSR_Template.pptx"
+			],
+			[
+				"sublime-",
+				"mss_report_engine.sublime-project"
+			],
+			[
+				"data_controller/utils",
+				"data_controller/utils.py"
+			],
+			[
+				"data_controller/salesforce/unit_tests/unit_tests_salesforce.py",
+				"data_controller/salesforce/unit_tests/unit_tests_salesforce.py"
+			],
+			[
+				"nets",
+				"netstorage/netstorage.py"
+			],
+			[
+				"setting",
+				"mss_ps_api/settings.py"
+			],
+			[
+				"local_s",
+				"mss_ps_api/local_settings.py"
+			],
+			[
+				"mod",
+				"snippets/models.py"
+			],
+			[
+				"serial",
+				"snippets/serializers.py"
+			],
+			[
+				"model",
+				"snippets/models.py"
+			],
+			[
+				"urls.",
+				"drftutorial/urls.py"
+			],
+			[
+				"modl",
+				"snippets/models.py"
+			],
+			[
+				"urls.py",
+				"snippets/urls.py"
+			],
+			[
+				"view",
+				"snippets/views.py"
+			],
+			[
+				"seri",
+				"snippets/serializers.py"
+			],
+			[
+				"settings.",
+				"drftutorial/settings.py"
+			],
+			[
+				"mode",
+				"snippets/models.py"
+			],
+			[
+				"models.",
+				"models/models.go"
+			],
+			[
+				"session",
+				"views/sessions.go"
+			],
+			[
+				"scripts/bui",
+				"scripts/build_and_run.sh"
+			],
+			[
+				"index.js",
+				"static/controllers/index.js"
+			],
+			[
+				"sec",
+				"secapp.go"
+			],
+			[
+				"dlr",
+				"integration_tests/dlr_receiver_test/dlr_receiver_test.py"
+			],
+			[
+				"hangar_compu",
+				"concord/api/py/hangar_computation.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/work/mss_report_engine/src/ab-www/data_aggregator/mss_report_engine.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 60.0,
+		"last_filter": "bot_traffic_overview_warned_vs_mitigated_top_bot_reasons",
+		"selected_items":
+		[
+			[
+				"bot_traffic_overview_warned_vs_mitigated_top_bot_reasons",
+				"bot_traffic_overview_warned_vs_mitigated_top_bot_reasons"
+			],
+			[
+				"bot_traffic_overview",
+				"bot_traffic_overview"
+			],
+			[
+				"BotVsHumanTrafficTimeline",
+				"BotVsHumanTrafficTimeline"
+			],
+			[
+				"mapping bot",
+				"get_bot_reason_mapping"
+			],
+			[
+				"TopBotReasonChart",
+				"TopBotReasonChart"
+			],
+			[
+				"get_components_from_sections",
+				"get_components_from_sections"
+			],
+			[
+				"BMPTSr",
+				"BMPTSRPPTReportFlow"
+			],
+			[
+				"agenda_render",
+				"agenda_renderer"
+			],
+			[
+				"TopBotCategoryComponent",
+				"TopBotCategoryComponent"
+			],
+			[
+				"endpoint_botnet_id_reason",
+				"endpoint_botnet_id_reason"
+			],
+			[
+				"datakeyname",
+				"DataKeyName"
+			],
+			[
+				"traffic_overview_top_botnet_and_bot_reason",
+				"traffic_overview_top_botnet_and_bot_reason"
+			],
+			[
+				"render_component",
+				"render_component"
+			],
+			[
+				"APIView",
+				"APIView"
+			],
+			[
+				"csrf_ee",
+				"csrf_exempt"
+			],
+			[
+				"APIV",
+				"APIView"
+			],
+			[
+				"Paragraph",
+				"Paragraph"
+			],
+			[
+				"GenerateReportPreview",
+				"GenerateReportPreview"
+			],
+			[
+				"per_endpoint_overview",
+				"per_endpoint_overview"
+			],
+			[
+				"container",
+				"container"
+			],
+			[
+				"update callb",
+				"update_portal_through_callback_hook"
+			],
+			[
+				"async generate analy",
+				"async_generate_endpoint_detailed_analysis_for_bmp_tsr"
+			],
+			[
+				"DataAdmin",
+				"DataAdmin"
+			],
+			[
+				"preview",
+				"PreviewMetadataGenerator"
+			],
+			[
+				"Data",
+				"Data"
+			],
+			[
+				"scope_of_review",
+				"scope_of_review"
+			],
+			[
+				"ReportUpload",
+				"ReportUploadFailure"
+			],
+			[
+				"Report",
+				"Report"
+			],
+			[
+				"",
+				"$(\"#n\" + n)"
+			],
+			[
+				"add_api",
+				"add_api_structure"
+			],
+			[
+				"LineChart",
+				"BaseLineChartComponent"
+			],
+			[
+				"pie",
+				"pie"
+			],
+			[
+				"detailed analysis",
+				"generate_endpoint_detailed_analysis_for_bmp_tsr"
+			],
+			[
+				"EndpointDetailTable",
+				"EndpointDetailTable"
+			],
+			[
+				"EndpointConfigDataTable",
+				"EndpointConfigDataTable"
+			],
+			[
+				"get_api_purpose_details_by_purpose_id",
+				"get_api_purpose_details_by_purpose_id"
+			],
+			[
+				"detailed",
+				"generate_endpoint_detailed_analysis_for_bmp_tsr"
+			],
+			[
+				"endpoint_over",
+				"endpoint_overview"
+			],
+			[
+				"bmp_tsr_endpoint_details",
+				"bmp_tsr_endpoint_details"
+			],
+			[
+				"endpoint_overview",
+				"endpoint_overview"
+			],
+			[
+				"test_net",
+				"test_netstorage_post"
+			],
+			[
+				"get_cont",
+				"get_contracts"
+			],
+			[
+				"get_contra",
+				"get_contracts"
+			],
+			[
+				"test_netstorage_post",
+				"test_netstorage_post"
+			],
+			[
+				"download",
+				"download_from_netstorage"
+			],
+			[
+				"upload_to_n",
+				"upload_to_net_storage"
+			],
+			[
+				"netsto",
+				"NetStorageView"
+			],
+			[
+				"upload_lo",
+				"upload_local_file"
+			],
+			[
+				"netstor",
+				"NetStorageView"
+			],
+			[
+				"netstr",
+				"NetStorageView"
+			],
+			[
+				"renderreadl",
+				"RenderRealTimeData"
+			],
+			[
+				"IPDetails",
+				"GetIPDetails"
+			],
+			[
+				"getAccountNameForAccountId",
+				"GetAccountNamesForAccountId"
+			],
+			[
+				"GetAllAccountInfoForIDs",
+				"GetAllAccountInfoForIDs"
+			],
+			[
+				"GetConfig",
+				"GetConfig"
+			],
+			[
+				"getbyid",
+				"GetConfigById"
+			]
+		],
+		"width": 759.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
